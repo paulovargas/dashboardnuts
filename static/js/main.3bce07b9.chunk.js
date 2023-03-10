@@ -1,2 +1,0 @@
-(this.webpackJsonpundefined=this.webpackJsonpundefined||[]).push([[0],{10:function(e,t,i){"use strict";i.r(t);i(0);var o=i(3),n=i(4),p=i(1),r=[["Tipo A","Hours per Day"],["Tipo B",11],["Tipo C",2],["Tipo D",2],["Tipo E",2],["Tipo F",7]],s={title:"Prospecto de Mudas Divinut",is3D:!0};function a(){return Object(p.jsx)(n.a,{chartType:"PieChart",data:r,options:s,width:"100%",height:"400px"})}var c=document.getElementById("root");Object(o.render)(Object(p.jsx)(a,{}),c)}},[[10,1,2]]]);
-//# sourceMappingURL=main.3bce07b9.chunk.js.map
