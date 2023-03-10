@@ -2,12 +2,12 @@ import React from "react";
 import { Chart } from "react-google-charts";
 
 export const data = [
-  ["Tipo A", "Hours per Day"],
-  ["Tipo B", 11],
+  ["Mudas cultivadas", "Variedades com nossos parceiros"],
+  ["Tipo A", 11],
+  ["Tipo B", 2],
   ["Tipo C", 2],
   ["Tipo D", 2],
-  ["Tipo E", 2],
-  ["Tipo F", 7],
+  ["Tipo E", 7],
 ];
 
 export const options = {
