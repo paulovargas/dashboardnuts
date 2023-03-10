@@ -1,2 +1,0 @@
-(this.webpackJsonpundefined=this.webpackJsonpundefined||[]).push([[0],{10:function(t,e,i){"use strict";i.r(e);i(0);var n=i(3),a=i(4),r=i(1),s=[["Task","Hours per Day"],["Work",11],["Eat",2],["Commute",2],["Watch TV",2],["Sleep",7]],c={title:"My Daily Activities",is3D:!0};function o(){return Object(r.jsx)(a.a,{chartType:"PieChart",data:s,options:c,width:"100%",height:"400px"})}var p=document.getElementById("root");Object(n.render)(Object(r.jsx)(o,{}),p)}},[[10,1,2]]]);
-//# sourceMappingURL=main.f651bd08.chunk.js.map
